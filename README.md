@@ -13,3 +13,4 @@ Installation Guide
 <img width="460" height="107" alt="image" src="https://github.com/user-attachments/assets/392bf195-5601-40fb-ba1e-67df856cde44" />
 <img width="456" height="176" alt="image" src="https://github.com/user-attachments/assets/fc17a4d4-4eaa-4c5d-b1be-91a1dfb7bde9" />
 Requires Enhanced Edition
+(Codex’s collaboration was used to carry out this project.)
