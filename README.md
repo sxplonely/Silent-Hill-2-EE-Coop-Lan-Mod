@@ -12,3 +12,4 @@ Installation Guide
 5. Launch `sh2pc.exe`. Select "MULTIPLAYER" from the title menu or press F8; the lobby should then appear. You can use `Verify-Install.ps1` to check your files and requirements without making any modifications.
 <img width="460" height="107" alt="image" src="https://github.com/user-attachments/assets/392bf195-5601-40fb-ba1e-67df856cde44" />
 <img width="456" height="176" alt="image" src="https://github.com/user-attachments/assets/fc17a4d4-4eaa-4c5d-b1be-91a1dfb7bde9" />
+Requires Enhanced Edition
