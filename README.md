@@ -1,4 +1,4 @@
-# Silent-Hill-2-EE-Coop-Lan-Mod
+# Silent-Hill-2-EE-Coop-Lan-EOS-Mod
 SH2Coop is a cooperative multiplayer mod for Silent Hill 2: Enhanced Edition, designed for up to 4 players.
 
 Version 34.59-rc1 includes LAN multiplayer and Internet multiplayer through Epic Online Services (EOS), with public rooms and private rooms using four-digit PINs. Cooperative support is implemented for James Sunderland’s main story and Maria’s Born from a Wish scenario.
